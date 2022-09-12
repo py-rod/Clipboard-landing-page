@@ -668,6 +668,8 @@ main{
 
     .header{
         background-image: url("../assets/bg-header-desktop.png");
+        background-repeat: no-repeat;
+        background-size: 100% auto;
     }
     
     .header__title{
