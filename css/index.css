@@ -33,6 +33,7 @@ p{
 .header{
     background-image: url("../assets/bg-header-mobile.png");
     background-repeat: no-repeat;
+    background-size: 100% auto;
     text-align: center;
     padding: 90px 20px 0 ;
 
